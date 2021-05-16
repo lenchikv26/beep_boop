@@ -1,0 +1,93 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@lenchikv26 
+lenchikv26
+/
+beep_boop
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+beep_boop/style.css.txt
+@lenchikv26
+lenchikv26 Add files via upload
+Latest commit d28a076 6 days ago
+ History
+ 1 contributor
+49 lines (43 sloc)  723 Bytes
+  
+body {
+    font-family: sans-serif;
+}
+
+header {
+    
+width: 557px;
+height: 67px;
+left: 0px;
+top: 0px;
+
+background: #FFDDB5;
+
+box-sizing: border-box;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+header a {
+    color: black;
+    background-color:#FFB884;
+    text-decoration: none;
+    border: 1px solid #FFB884;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 5px;
+    margin: 10px;
+}
+body {
+    background-color: #FFF5EE;
+
+}
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+h3 {
+    font-size: 30px;
+    text-align: center;
+}
+img {
+    height: 200px;
+    margin-top: 10px ;
+    margin-bottom: 20px ;
+    margin-right: 50px ;
+    margin-left: 190px ;
+}
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
