@@ -3,15 +3,12 @@ body {
 }
 
 header {
-    
-width: 557px;
-height: 67px;
-left: 0px;
-top: 0px;
-
-background: #FFDDB5;
-
-box-sizing: border-box;
+        width: 557px;
+        height: 67px;
+        left: 0px;
+        top: 0px;
+        background: #FFDDB5;
+        box-sizing: border-box;
 }
 
 h1 {
